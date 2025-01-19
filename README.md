@@ -1,5 +1,4 @@
 # Yishen-Song-STATS201
-Below is the structured README.md content for the data folder in your GitHub repository. You can copy this and save it as README.md inside the data folder.
 
 Iris Dataset
 
