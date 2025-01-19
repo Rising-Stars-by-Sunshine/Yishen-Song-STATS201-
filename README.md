@@ -1,65 +1,26 @@
 # Yishen-Song-STATS201
----
+# Machine Learning Workstation Setup and Exploratory Data Analysis (EDA)
 
-### **Data Folder - README.md**
-
-```markdown
-# Iris Dataset
-
-## 📊 Dataset Overview
-
-The **Iris Dataset** is a classic and widely used dataset in machine learning and statistics. It contains 150 samples of iris flowers, each described by four numerical features: **sepal length**, **sepal width**, **petal length**, and **petal width**. The goal is to classify the samples into one of three species:
-- 🌸 **Iris-setosa**
-- 🌸 **Iris-versicolor**
-- 🌸 **Iris-virginica**
-
-This dataset is ideal for learning and demonstrating classification algorithms and exploratory data analysis (EDA).
-
-### 🔗 Source
-- [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/ml/datasets/Iris)
-
-### 📌 Key Details
-- **Number of Instances:** 150
-- **Number of Features:** 4
-- **Number of Classes:** 3 (Iris-setosa, Iris-versicolor, Iris-virginica)
+This repository provides a comprehensive guide to setting up a machine learning workstation and performing exploratory data analysis (EDA) using the Iris Dataset.
 
 ---
 
-## 📂 Data Files
+## Project Overview
 
-| File Name       | Description                                                 |
-|------------------|-------------------------------------------------------------|
-| `iris.data`      | Contains the dataset in comma-separated format.             |
-| `iris.names`     | Provides a detailed description of the dataset and its attributes. |
+This project demonstrates:
+1. Setting up a local or cloud-based machine learning environment.
+2. Conducting EDA on the Iris dataset to derive meaningful insights.
+3. Creating a reproducible workflow for data analysis.
 
----
-
-## 📑 Data Dictionary
-
-| **Variable Name** | **Type**      | **Description**                                         |
-|--------------------|---------------|---------------------------------------------------------|
-| `sepal_length`     | `Float`       | Sepal length in centimeters.                           |
-| `sepal_width`      | `Float`       | Sepal width in centimeters.                            |
-| `petal_length`     | `Float`       | Petal length in centimeters.                           |
-| `petal_width`      | `Float`       | Petal width in centimeters.                            |
-| `species`          | `Categorical` | Species of the iris flower (Setosa, Versicolor, Virginica). |
+This project provides a systematic approach to set up a machine learning workstation and explore scientific communication using the Iris Dataset.
 
 ---
 
-## ✨ Notes
+## System Configuration Instructions
 
-- There are **no missing values** in this dataset.
-- All measurements are recorded in **centimeters**.
+### 🏠 Local Environment Setup
 
----
-
-## 🚀 Applications
-
-This dataset is commonly used for:
-- 📈 Supervised machine learning classification tasks.
-- 🔍 Exploratory data analysis and data visualization.
-- 🧠 Testing clustering and dimensionality reduction algorithms (e.g., PCA).
-
----
-
-
+Clone this repository:
+   ```bash
+   git clone https://github.com/<organization>/<repository>.git
+   cd <repository>
